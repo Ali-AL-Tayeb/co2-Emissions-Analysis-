@@ -18,8 +18,6 @@ This project focuses on analyzing and visualizing emission data to identify tren
 - Matplotlib & Seaborn
 - Plotly for interactive visualizations
 
-## Dataset
-The analysis is based on emissions-related data from various sources. The dataset includes information on emission levels across different regions, and timeframes
 
 ## Results & Insights
 - Top 10 emission producing countries across time
